@@ -1,4 +1,4 @@
-# Example: Check if a number is positive, negative, or zero
+# Example: Check if a number is positive, negative and zero
 
 num = int(input("Enter a number: "))
 
